@@ -1,0 +1,52 @@
+2415354001,I Made Sujana,Teknologi Informasi,ACTIVE
+2415354002,Ni Putu Ayu,Teknologi Informasi,ACTIVE
+2415354003,Ketut Darmada,Teknik Elektro,SUSPENDED
+2415354004,Wayan Gina,Teknologi Rekayasa,ACTIVE
+2415355006,LoadTester_6,Teknik Komputer,ACTIVE
+2415355015,LoadTester_15,Teknik Komputer,ACTIVE
+2415355012,LoadTester_12,Teknik Komputer,ACTIVE
+2415355013,LoadTester_13,Teknik Komputer,ACTIVE
+2415355010,LoadTester_10,Teknik Komputer,ACTIVE
+2415355194,LoadTester_194,Teknik Komputer,ACTIVE
+2415355151,LoadTester_151,Teknik Komputer,ACTIVE
+2415355014,LoadTester_14,Teknik Komputer,ACTIVE
+2415355099,LoadTester_99,Teknik Komputer,ACTIVE
+2415355009,LoadTester_9,Teknik Komputer,ACTIVE
+2415355016,LoadTester_16,Teknik Komputer,ACTIVE
+2415355011,LoadTester_11,Teknik Komputer,ACTIVE
+2415355213,LoadTester_213,Teknik Komputer,ACTIVE
+2415355003,LoadTester_3,Teknik Komputer,ACTIVE
+2415355002,LoadTester_2,Teknik Komputer,ACTIVE
+2415355027,LoadTester_27,Teknik Komputer,ACTIVE
+2415355007,LoadTester_7,Teknik Komputer,ACTIVE
+2415355158,LoadTester_158,Teknik Komputer,ACTIVE
+2415355146,LoadTester_146,Teknik Komputer,ACTIVE
+2415355209,LoadTester_209,Teknik Komputer,ACTIVE
+2415355186,LoadTester_186,Teknik Komputer,ACTIVE
+2415355154,LoadTester_154,Teknik Komputer,ACTIVE
+2415355149,LoadTester_149,Teknik Komputer,ACTIVE
+2415355017,LoadTester_17,Teknik Komputer,ACTIVE
+2415355005,LoadTester_5,Teknik Komputer,ACTIVE
+2415355056,LoadTester_56,Teknik Komputer,ACTIVE
+2415355157,LoadTester_157,Teknik Komputer,ACTIVE
+2415355008,LoadTester_8,Teknik Komputer,ACTIVE
+2415355195,LoadTester_195,Teknik Komputer,ACTIVE
+2415355190,LoadTester_190,Teknik Komputer,ACTIVE
+2415355185,LoadTester_185,Teknik Komputer,ACTIVE
+2415355001,LoadTester_1,Teknik Komputer,ACTIVE
+2415355087,LoadTester_87,Teknik Komputer,ACTIVE
+2415355088,LoadTester_88,Teknik Komputer,ACTIVE
+2415355067,LoadTester_67,Teknik Komputer,ACTIVE
+2415355120,LoadTester_120,Teknik Komputer,ACTIVE
+2415355181,LoadTester_181,Teknik Komputer,ACTIVE
+2415355152,LoadTester_152,Teknik Komputer,ACTIVE
+2415355079,LoadTester_79,Teknik Komputer,ACTIVE
+2415355200,LoadTester_200,Teknik Komputer,ACTIVE
+2415355207,LoadTester_207,Teknik Komputer,ACTIVE
+2415355142,LoadTester_142,Teknik Komputer,ACTIVE
+2415355085,LoadTester_85,Teknik Komputer,ACTIVE
+2415355043,LoadTester_43,Teknik Komputer,ACTIVE
+2415355083,LoadTester_83,Teknik Komputer,ACTIVE
+2415355004,LoadTester_4,Teknik Komputer,ACTIVE
+2415355102,LoadTester_102,Teknik Komputer,ACTIVE
+2415355206,LoadTester_206,Teknik Komputer,ACTIVE
